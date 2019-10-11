@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/gunshot2.wav-c0a775cc9d4880b38c98e47df898fb6d.sample"
+
+[deps]
+
+source_file="res://Sounds/gunshot2.wav"
+dest_files=[ "res://.import/gunshot2.wav-c0a775cc9d4880b38c98e47df898fb6d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=true
+edit/loop=false
+compress/mode=0

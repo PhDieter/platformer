@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Forest_Interlude.wav-345f673daaa5c64a172e68defe4f2d7c.sample"
+
+[deps]
+
+source_file="res://Sounds/Forest_Interlude.wav"
+dest_files=[ "res://.import/Forest_Interlude.wav-345f673daaa5c64a172e68defe4f2d7c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

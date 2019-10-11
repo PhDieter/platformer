@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/enemy_damage.wav-2957ff4912fe62f9467f71ec0fc60d4c.sample"
+
+[deps]
+
+source_file="res://Sounds/enemy_damage.wav"
+dest_files=[ "res://.import/enemy_damage.wav-2957ff4912fe62f9467f71ec0fc60d4c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=true
+edit/loop=false
+compress/mode=0
